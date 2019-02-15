@@ -1,0 +1,1 @@
+include ':knife-annotation', ':knife-compiler', ':knife-api', ':app'
